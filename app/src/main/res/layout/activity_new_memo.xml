@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10sp">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textWdate1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10sp"
+                android:text="작성일"
+                android:textColor="#949494"
+                android:textSize="15sp" />
+            <EditText
+                android:id="@+id/newContent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="top"
+                android:hint="메모할 내용을 입력하세요"
+                android:padding="10sp"
+                android:textColorHint="#949494"
+                android:textSize="28dp" />
+        </LinearLayout>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/saveMemo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="50dp"
+            android:src="@drawable/save"
+            app:backgroundTint="#64CFFF"
+            app:fabCustomSize="80dp"
+            app:maxImageSize="50dp" />
+
+
+    </FrameLayout>
+
+</LinearLayout>

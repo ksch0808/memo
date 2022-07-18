@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Listview2/app/src/main/res/layout/activity_font_size_change.xml" value="0.24148418491484186" />
+        <entry key="..\:/Listview2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Listview2/app/src/main/res/layout/activity_memo.xml" value="0.2" />
+        <entry key="..\:/Listview2/app/src/main/res/layout/activity_menu.xml" value="0.18072916666666666" />
+        <entry key="..\:/Listview2/app/src/main/res/layout/activity_new_memo.xml" value="0.1" />
+        <entry key="..\:/Listview2/app/src/main/res/layout/activity_seekbar.xml" value="0.1" />
+        <entry key="..\:/Listview2/app/src/main/res/layout/activity_updater.xml" value="0.25" />
+        <entry key="..\:/Listview2/app/src/main/res/menu/activity_memo_menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/Listview2/app/src/main/res/menu/activity_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
